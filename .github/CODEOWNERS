@@ -1,4 +1,4 @@
-/* 
+
 # Assign entire repo to a team
 # * @your-org/team-name
 * @Mrawash
@@ -11,6 +11,5 @@
 # Assign by file type
 # *.py @python-experts
 # *.md @tech-writers 
-# */
 
 

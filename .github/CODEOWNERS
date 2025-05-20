@@ -12,5 +12,6 @@
 # Assign by file type
 # *.py @python-experts
 # *.md @tech-writers 
+*.txt    @M-Rawash
 
 

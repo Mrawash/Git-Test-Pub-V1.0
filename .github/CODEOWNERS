@@ -1,14 +1,16 @@
-<!-- 
+
 # Assign entire repo to a team
-* @your-org/team-name
+# * @your-org/team-name
+* @Mrawash
+* @M-Rawash
 
 # Assign specific files to individuals
-/docs/ @alice @bob
-/src/*.js @frontend-team
-/backend/ @backend-team
+# /docs/ @alice @bob
+# /src/*.js @frontend-team
+# /backend/ @backend-team
 
 # Assign by file type
-*.py @python-experts
-*.md @tech-writers -->
+# *.py @python-experts
+# *.md @tech-writers 
 
-*@Mrawash
+
